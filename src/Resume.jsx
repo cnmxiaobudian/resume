@@ -17,8 +17,8 @@ export default function Resume() {
       />
       <div className="border-b my-5 border-gray-800 border-opacity-25"></div>
       <CareerPanel />
-      <div className="border-b my-5 border-gray-800 border-opacity-25"></div>
-      <OpenSourcePanel />
+      {/* <div className="border-b my-5 border-gray-800 border-opacity-25"></div>
+      <OpenSourcePanel /> */}
       <div className="border-b my-5 border-gray-800 border-opacity-25"></div>
       <SharePanel />
       <div className="border-b my-5 border-gray-800 border-opacity-25"></div>
